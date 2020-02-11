@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: nms
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: GK00428336
+Implementation-Vendor-Id: com.nms
+Build-Jdk: 1.8.0_111
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/nms
+Created-By: Maven Integration for Eclipse
+
